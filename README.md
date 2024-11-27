@@ -41,3 +41,13 @@ All rights and benefits associated with the projects introduced in this reposito
 
 ## Contact Us
 We are always open to exciting collaborations and challenging projects. Feel free to reach out to us through the following channels:
+
+- **Website:** [http://senpaicoders.com/]
+- **Email:** [alphahashgroup@gmail.com]
+- **facebook:** [https://www.facebook.com/Alphahashconsulting/]
+
+Thank you for visiting our repository. We look forward to working with you!
+
+---
+
+© 2024 AlphaHashGroup. All rights reserved.
